@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Praveen Shekar</h1>
-<h3 align="left">A passionate Data Analytics and Machine Learning enthusiast from India</h3>
+<h3 align="left">Data Analysis enthusiast from India</h3>
 
 - 💬 Ask me about **Python, Excel, MySQL**
 
