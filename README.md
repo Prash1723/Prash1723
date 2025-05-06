@@ -1,5 +1,5 @@
 <!--Banner-->
-# ![Prash1723 Banner Image](./banner.png)
+<!-- ![Prash1723 Banner Image](./banner.png) -->
 
 <!--Night Owl image-->
 <div>
