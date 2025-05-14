@@ -14,7 +14,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Data Analysis and Machine Learning Enthusiast with a huge love for Python, Excel,  Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
+- ✨Studento 4 life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://Prash1723.github.io/PraveenShekar) for more details about me.
@@ -40,7 +40,7 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Improving my skills in data analytics with Python and SQL.</li>
 </ul>
 
 <br />
@@ -184,7 +184,7 @@
 <img src="./gmail.png" width=50 height=50 alt="s.praveen795@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Prash1723" target="_blank">
+<a href="https://www.github.com/Prash1723" target="_blank">
 <img src="./github.png" width=50 height=50 alt="Prash1723" style="margin-bottom: 5px;" />
 </a>
 
