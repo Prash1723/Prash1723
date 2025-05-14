@@ -14,7 +14,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Data Analysis and Machine Learning Enthusiast with a huge love for Python, Excel,  Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨Studento 4 life :)
+- ✨ Student 4 life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://Prash1723.github.io/PraveenShekar) for more details about me.
